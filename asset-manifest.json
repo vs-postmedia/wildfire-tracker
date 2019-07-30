@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wildfire-tracker/static/css/main.f511a0ed.chunk.css",
-    "main.js": "/wildfire-tracker/static/js/main.22800752.chunk.js",
-    "main.js.map": "/wildfire-tracker/static/js/main.22800752.chunk.js.map",
+    "main.js": "/wildfire-tracker/static/js/main.644a2b79.chunk.js",
+    "main.js.map": "/wildfire-tracker/static/js/main.644a2b79.chunk.js.map",
     "runtime~main.js": "/wildfire-tracker/static/js/runtime~main.7b17a158.js",
     "runtime~main.js.map": "/wildfire-tracker/static/js/runtime~main.7b17a158.js.map",
     "static/js/2.39829451.chunk.js": "/wildfire-tracker/static/js/2.39829451.chunk.js",
     "static/js/2.39829451.chunk.js.map": "/wildfire-tracker/static/js/2.39829451.chunk.js.map",
     "index.html": "/wildfire-tracker/index.html",
-    "precache-manifest.4575835f3b8652a2ba8a8e7a6c172e61.js": "/wildfire-tracker/precache-manifest.4575835f3b8652a2ba8a8e7a6c172e61.js",
+    "precache-manifest.99bf23400942f33f38175123cb693c58.js": "/wildfire-tracker/precache-manifest.99bf23400942f33f38175123cb693c58.js",
     "service-worker.js": "/wildfire-tracker/service-worker.js",
     "static/css/main.f511a0ed.chunk.css.map": "/wildfire-tracker/static/css/main.f511a0ed.chunk.css.map",
     "static/media/index.css": "/wildfire-tracker/static/media/Shift-BoldItalic.5c3edbfd.otf"
