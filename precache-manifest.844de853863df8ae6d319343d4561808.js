@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4db0d4ec68345d02b5c8c8db742dcadd",
+    "revision": "1b3e60aaaa46d179dc436d3d95954cfb",
     "url": "/wildfire-tracker/index.html"
   },
   {
-    "revision": "163bf681a6f9e7b71605",
+    "revision": "c00f2723c191c82c1b35",
     "url": "/wildfire-tracker/static/css/main.f511a0ed.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wildfire-tracker/static/js/2.39829451.chunk.js"
   },
   {
-    "revision": "163bf681a6f9e7b71605",
-    "url": "/wildfire-tracker/static/js/main.1a44e20a.chunk.js"
+    "revision": "c00f2723c191c82c1b35",
+    "url": "/wildfire-tracker/static/js/main.b6d56226.chunk.js"
   },
   {
     "revision": "65bc327df9fcb13044f9",
